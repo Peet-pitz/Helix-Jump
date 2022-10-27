@@ -16,7 +16,7 @@ public class CharacterSelector : MonoBehaviour
         characters[selectedCharacter].SetActive(true);
     }
 
-    // Update is called once per frame
+     // Update is called once per frame
     void Update()
     {
         
